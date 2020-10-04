@@ -5,6 +5,10 @@ body {
 	font-family: 'Sansita Swashed', cursive;
 }
 
+a {
+	text-decoration: none
+}
+
 .image {
 	margin-top: 100px;
 	text-align:center
